@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Real Time took less time than sort3 but not than sort2 on unsorted array. Was the quickest on sorted array.
+
+
+sort2 uses: Merge Sort
+
+How do you know?: Real Time took less time than sort1 and sort3 on unsorted array. Was in the middle on sorted array.
+
+
+sort3 uses: Selection Sort
+
+How do you know?: Real Time took longer time than sort1 and sort1 on unsorted array. Was the slowest on sorted array.
